@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">PDF Viewer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="brightness">Brightness : %d </string>
+    <string name="contrast">Contrast : %d </string>
+    <string name="sharpness">Sharpness : %d </string>
+    <string name="done">DONE</string>
+    <string name="retake">Retake</string>
+    <string name="authority">com.ignyte.docscanner.MainActivity</string>
+    <string name="edit">EDIT</string>
+    <string name="select_a_file">Please select a file</string>
+    <string name="mp3">\uF759</string>
+    <string name="pdf">\uf225</string>
+    <string name="unknown">Unknow</string>
+    <string name="internal_memory">Internal Memory</string>
+    <string name="external_memory">Exteranl Memory</string>
+    <string name="available_">Available :</string>
+    <string name="total">Total :</string>
+    <string name="parent_folder">Parent Folder</string>
+    <string name="video_error">Unable to Read Video from gallary. Please follow instruction on https://www.windowsdigital.com/facebook-messenger-error-loading-media/ to resolve the issue</string>
+
+    <string name="select_video">Select Video</string>
+    <string name="selec_image">Select Image</string>
+    <string name="selec_audio">Select Audio</string>
+    <string name="select_file">Select File</string>
+    <string name="add_photos">add photos</string>
+    <string name="edit_page_name">Edit Page Name</string>
+    <string name="hint_change_page_name">Page Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="font_material">materialdesignicons.ttf</string>
+
+
+    <string name="icon_folder">\uf24b</string>
+    <string name="icon_phone">\uf120</string>
+    <string name="ic_sdcard">\uf479</string>
+    <string name="ic_parent">\uf54d</string>
+    <string name="select_pdf">Select PDF</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="recent">Recent</string>
+    <string name="all_pdf">All PDF</string>
+    <string name="menu_about">About App</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="menu_source">Source Code</string>
+
+</resources>
